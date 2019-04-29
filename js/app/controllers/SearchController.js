@@ -3,5 +3,5 @@ function SearchController() {
 }
 
 angular
-	.module('app')
-	.controller('SearchController', SearchController);
+.module('app')
+.controller('SearchController', SearchController);
